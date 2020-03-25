@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tema2</string>
+    <string name="hint_edtxt1">First and Last Name</string>
+    <string name="hint_edtxt2">Mark</string>
+    <string name="button_1">Add User</string>
+    <string name="button_2">Remove User</string>
+</resources>
